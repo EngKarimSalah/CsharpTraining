@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../ClinimManagementSystem/ClinimManagementSystem.csproj" Id="2b7321bb-2f33-4080-942e-548f2daff388" />
   <Project Path="BankingServices.csproj" />
+  <Project Path="testingApp/testingApp.csproj" Id="a0198f25-063a-452d-acd0-3b3366ad2a19" />
 </Solution>
